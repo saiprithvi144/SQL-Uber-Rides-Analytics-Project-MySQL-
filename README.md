@@ -33,7 +33,7 @@ The main objectives of this project are to:
 
 ---
 
-# 🛠 Technologies Used
+# Technologies Used
 
 * **Database:** MySQL 8.0
 * **Language:** SQL
@@ -73,7 +73,7 @@ SQL-Data-Analytics-Project-MySQL/
 
 ---
 
-#Schema Map
+# Schema Map
 
 <img width="874" height="802" alt="Schema_Map" src="https://github.com/user-attachments/assets/b8bb428f-dbb4-4b29-b11c-4091cb6ab5fe" />
 
