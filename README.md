@@ -373,9 +373,9 @@ It has much more potential to generate more revenue with the average base fare a
  (Example: Houston generating more revenue due to almost double the average distance covered to New York even though New York has more demand for trips). 
 
 
-##Future business decisions should be taken keeping these in mind. 
+### Future business decisions should be taken keeping these in mind. 
 
-#Acknowledgements
+### Acknowledgements
 
 Uber Rides Analytics Database by: Arjun-times 
 https://www.kaggle.com/datasets/arjuntimes/uber-sql-database
