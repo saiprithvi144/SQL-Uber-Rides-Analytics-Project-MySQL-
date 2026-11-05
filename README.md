@@ -99,7 +99,6 @@ SQL-Data-Analytics-Project-MySQL/
 
 ## Dataset Understand And Exploration
 
-Analyze:
 
 * Rider demographics
 * Location information
@@ -114,8 +113,6 @@ Analyze:
 
 ## Date Range Analysis
 
-Analyze:
-
 * Understand date and time related information
 * Identify the trips timeline
 * Yearly & Monthly trends
@@ -126,8 +123,6 @@ Analyze:
 
 ## Measures Exploration
 
-Calculate:
-
 * Calculate overall revenue KPI
 * Analyze rider behaviour
 * Measure geological data
@@ -137,8 +132,6 @@ Calculate:
 ---
 
 ## Magnitude Analysis
-
-Compare business performance across:
 
 * Analyze total revenue, riders & drivers per city
 * Analyze driver performance
