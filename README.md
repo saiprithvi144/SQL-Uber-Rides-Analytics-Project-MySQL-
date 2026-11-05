@@ -330,11 +330,11 @@ Location Report
 
 
 
-## Conclusion
+# Conclusion
 
-CONCLUSION SUMMARY:
 
-# The primary concerns from this analysis would be to look into:
+
+## The primary concerns from this analysis would be to look into:
 
 
 -why the reviews have a mismatch in rating.
@@ -347,7 +347,7 @@ rather than the actual accurate values themselves.
 
 -The trips still marked “in_progress” also need to be looked into. 
 
-# The final takeaways from this analysis should be:
+## The final takeaways from this analysis should be:
 
 
 -The cumulative revenue streamline is consistent with no major losses or profits despite having high month over month change percentages in some cases. 
