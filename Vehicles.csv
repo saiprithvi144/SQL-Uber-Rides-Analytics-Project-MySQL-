@@ -1,0 +1,298 @@
+vehicle_make,vehicle_model,vehicle_year,vehicle_type,vehicle_cost,uber_category
+Chevrolet,Equinox,2013,SUV,"$24,200",UberX
+Chevrolet,Equinox,2014,SUV,"$24,400",UberX
+Chevrolet,Equinox,2015,SUV,"$24,500",UberX
+Chevrolet,Equinox,2016,SUV,"$25,800",UberX
+Chevrolet,Equinox,2017,SUV,"$25,500",Comfort
+Chevrolet,Equinox,2018,SUV,"$23,600",Comfort
+Chevrolet,Equinox,2019,SUV,"$23,800",Comfort
+Chevrolet,Equinox,2021,SUV,"$23,800",Comfort
+Chevrolet,Equinox,2022,SUV,"$25,800",Comfort
+Chevrolet,Equinox,2023,SUV,"$26,600",Comfort
+Chevrolet,Impala,2014,Sedan,"$26,900",UberX
+Chevrolet,Impala,2018,Sedan,"$27,900",Comfort
+Chevrolet,Impala,2020,Sedan,"$31,600",Comfort
+Chevrolet,Impala,2022,Sedan,"$32,500",Comfort
+Chevrolet,Malibu,2013,Sedan,"$22,400",UberX
+Chevrolet,Malibu,2014,Sedan,"$22,100",UberX
+Chevrolet,Malibu,2015,Sedan,"$22,500",UberX
+Chevrolet,Malibu,2016,Sedan,"$21,600",UberX
+Chevrolet,Malibu,2017,Sedan,"$21,700",Comfort
+Chevrolet,Malibu,2018,Sedan,"$21,700",Comfort
+Chevrolet,Malibu,2019,Sedan,"$22,000",Comfort
+Chevrolet,Malibu,2021,Sedan,"$22,100",Comfort
+Chevrolet,Silverado,2013,Truck,"$24,500",UberX
+Chevrolet,Silverado,2014,Truck,"$26,000",UberX
+Chevrolet,Silverado,2015,Truck,"$26,500",UberX
+Chevrolet,Silverado,2016,Truck,"$27,800",UberX
+Chevrolet,Silverado,2017,Truck,"$28,000",UberX
+Chevrolet,Silverado,2018,Truck,"$28,300",UberX
+Chevrolet,Silverado,2019,Truck,"$29,800",UberX
+Chevrolet,Silverado,2021,Truck,"$30,500",UberX
+Chevrolet,Silverado,2022,Truck,"$34,600",UberX
+Chevrolet,Silverado,2023,Truck,"$36,300",UberX
+Chevrolet,Traverse,2016,SUV,"$31,200",UberX
+Chevrolet,Traverse,2017,SUV,"$31,300",Comfort
+Chevrolet,Traverse,2019,SUV,"$30,000",Comfort
+Chevrolet,Traverse,2022,SUV,"$33,700",Comfort
+Ford,Escape,2014,SUV,"$22,700",UberX
+Ford,Escape,2017,SUV,"$23,750",Comfort
+Ford,Escape,2018,SUV,"$23,940",Comfort
+Ford,Escape,2019,SUV,"$24,105",Comfort
+Ford,Escape,2020,SUV,"$24,885",Comfort
+Ford,Escape,2022,SUV,"$27,185",Comfort
+Ford,Explorer,2012,SUV,"$28,300",UberX
+Ford,Explorer,2013,SUV,"$29,100",UberX
+Ford,Explorer,2015,SUV,"$30,700",UberX
+Ford,Explorer,2018,SUV,"$32,140",Comfort
+Ford,Explorer,2019,SUV,"$32,365",Comfort
+Ford,Explorer,2020,SUV,"$32,765",Comfort
+Ford,Explorer,2021,SUV,"$32,925",Comfort
+Ford,F-150,2012,Truck,"$23,500",UberX
+Ford,F-150,2021,Truck,"$29,290",UberX
+Ford,Fusion,2012,Sedan,"$20,700",UberX
+Ford,Fusion,2013,Sedan,"$21,900",UberX
+Ford,Fusion,2014,Sedan,"$22,500",UberX
+Ford,Fusion,2015,Sedan,"$22,600",UberX
+Ford,Fusion,2016,Sedan,"$22,600",UberX
+Ford,Fusion,2017,Sedan,"$22,610",Comfort
+Ford,Fusion,2019,Sedan,"$22,840",Comfort
+Ford,Fusion,2021,Sedan,"$24,000",Comfort
+Ford,Fusion,2022,Sedan,"$25,000",Comfort
+Ford,Fusion,2023,Sedan,"$26,000",Comfort
+Ford,Mustang,2012,Sports Car,"$22,300",UberX
+Ford,Mustang,2013,Sports Car,"$22,200",UberX
+Ford,Mustang,2017,Sports Car,"$25,185",UberX
+Ford,Mustang,2018,Sports Car,"$25,845",UberX
+Ford,Mustang,2021,Sports Car,"$27,205",UberX
+Ford,Mustang,2022,Sports Car,"$27,470",UberX
+Ford,Mustang,2023,Sports Car,"$27,770",UberX
+Honda,Accord,2013,Sedan,"$21,700",UberX
+Honda,Accord,2015,Sedan,"$22,100",UberX
+Honda,Accord,2016,Sedan,"$22,200",UberX
+Honda,Accord,2017,Sedan,"$22,455",Comfort
+Honda,Accord,2020,Sedan,"$24,270",Comfort
+Honda,Civic,2012,Sedan,"$15,955",UberX
+Honda,Civic,2015,Sedan,"$18,490",UberX
+Honda,Civic,2019,Sedan,"$19,550",UberX
+Honda,Civic,2022,Sedan,"$22,550",UberX
+Honda,CR-V,2014,SUV,"$23,120",UberX
+Honda,CR-V,2016,SUV,"$23,845",UberX
+Honda,CR-V,2017,SUV,"$24,045",Comfort
+Honda,CR-V,2018,SUV,"$24,250",Comfort
+Honda,CR-V,2020,SUV,"$25,150",Comfort
+Honda,CR-V,2021,SUV,"$25,350",Comfort
+Honda,CR-V,2022,SUV,"$26,800",Comfort
+Honda,Odyssey,2012,Minivan,"$28,375",UberX
+Honda,Odyssey,2013,Minivan,"$28,675",UberX
+Honda,Odyssey,2020,Minivan,"$30,790",Comfort
+Honda,Pilot,2014,SUV,"$29,670",UberX
+Honda,Pilot,2017,SUV,"$30,745",Comfort
+Honda,Pilot,2018,SUV,"$30,900",Comfort
+Honda,Pilot,2019,SUV,"$31,450",Comfort
+Honda,Pilot,2020,SUV,"$31,650",Comfort
+Honda,Pilot,2021,SUV,"$32,550",Comfort
+Honda,Pilot,2023,SUV,"$36,300",Comfort
+Hyundai,Elantra,2012,Sedan,"$16,445",UberX
+Hyundai,Elantra,2014,Sedan,"$17,200",UberX
+Hyundai,Elantra,2017,Sedan,"$17,150",UberX
+Hyundai,Elantra,2018,Sedan,"$16,950",UberX
+Hyundai,Elantra,2019,Sedan,"$17,200",UberX
+Hyundai,Elantra,2022,Sedan,"$19,950",UberX
+Hyundai,Elantra,2023,Sedan,"$20,650",UberX
+Hyundai,Ioniq,2013,Hatchback,"$22,000",UberX
+Hyundai,Ioniq,2014,Hatchback,"$22,500",UberX
+Hyundai,Ioniq,2015,Hatchback,"$23,000",UberX
+Hyundai,Ioniq,2019,Hatchback,"$22,400",UberX
+Hyundai,Ioniq,2020,Hatchback,"$23,200",UberX
+Hyundai,Santa Fe,2013,SUV,"$24,700",UberX
+Hyundai,Santa Fe,2014,SUV,"$24,950",UberX
+Hyundai,Santa Fe,2015,SUV,"$24,950",UberX
+Hyundai,Santa Fe,2023,SUV,"$28,750",Comfort
+Hyundai,Sonata,2014,Sedan,"$21,450",UberX
+Hyundai,Sonata,2015,Sedan,"$21,150",UberX
+Hyundai,Sonata,2018,Sedan,"$22,050",Comfort
+Hyundai,Tucson,2016,SUV,"$22,700",UberX
+Hyundai,Tucson,2018,SUV,"$22,550",Comfort
+Hyundai,Tucson,2020,SUV,"$23,700",Comfort
+Hyundai,Tucson,2022,SUV,"$25,800",Comfort
+Kia,Optima,2013,Sedan,"$21,350",UberX
+Kia,Optima,2015,Sedan,"$21,650",UberX
+Kia,Optima,2016,Sedan,"$21,840",UberX
+Kia,Optima,2018,Sedan,"$22,600",Comfort
+Kia,Optima,2021,Sedan,"$23,690",Comfort
+Kia,Optima,2022,Sedan,"$23,790",Comfort
+Kia,Sorento,2012,SUV,"$23,150",UberX
+Kia,Sorento,2014,SUV,"$24,100",UberX
+Kia,Sorento,2015,SUV,"$24,300",UberX
+Kia,Sorento,2016,SUV,"$24,900",UberX
+Kia,Sorento,2017,SUV,"$25,600",Comfort
+Kia,Sorento,2020,SUV,"$26,990",Comfort
+Kia,Sorento,2022,SUV,"$29,590",Comfort
+Kia,Soul,2012,Hatchback,"$13,900",UberX
+Kia,Soul,2013,Hatchback,"$14,400",UberX
+Kia,Soul,2015,Hatchback,"$15,190",UberX
+Kia,Soul,2016,Hatchback,"$15,900",UberX
+Kia,Soul,2018,Hatchback,"$16,200",UberX
+Kia,Soul,2019,Hatchback,"$16,490",UberX
+Kia,Soul,2020,Hatchback,"$17,490",UberX
+Kia,Soul,2022,Hatchback,"$19,290",UberX
+Kia,Sportage,2012,SUV,"$18,500",UberX
+Kia,Sportage,2014,SUV,"$21,600",UberX
+Kia,Sportage,2015,SUV,"$21,900",UberX
+Kia,Sportage,2018,SUV,"$23,600",Comfort
+Kia,Sportage,2019,SUV,"$23,750",Comfort
+Kia,Sportage,2020,SUV,"$23,990",Comfort
+Kia,Sportage,2021,SUV,"$24,090",Comfort
+Kia,Sportage,2022,SUV,"$24,090",Comfort
+Kia,Sportage,2023,SUV,"$26,290",Comfort
+Kia,Stinger,2013,Sports Car,"$32,000",UberX
+Kia,Stinger,2015,Sports Car,"$32,500",UberX
+Kia,Stinger,2022,Sports Car,"$36,090",Comfort
+Kia,Stinger,2023,Sports Car,"$36,690",Comfort
+Mazda,CX-5,2012,SUV,"$20,695",UberX
+Mazda,CX-5,2013,SUV,"$21,195",UberX
+Mazda,CX-5,2018,SUV,"$24,150",Comfort
+Mazda,CX-5,2019,SUV,"$24,350",Comfort
+Mazda,CX-5,2020,SUV,"$25,190",Comfort
+Mazda,CX-5,2022,SUV,"$26,250",Comfort
+Mazda,CX-9,2012,SUV,"$29,725",UberX
+Mazda,CX-9,2015,SUV,"$29,985",UberX
+Mazda,CX-9,2016,SUV,"$31,520",UberX
+Mazda,CX-9,2017,SUV,"$31,520",Comfort
+Mazda,CX-9,2019,SUV,"$32,280",Comfort
+Mazda,CX-9,2020,SUV,"$33,890",Comfort
+Mazda,CX-9,2022,SUV,"$35,630",Comfort
+Mazda,Mazda3,2013,Sedan,"$16,700",UberX
+Mazda,Mazda3,2015,Sedan,"$16,945",UberX
+Mazda,Mazda3,2016,Sedan,"$17,845",UberX
+Mazda,Mazda3,2017,Sedan,"$17,845",UberX
+Mazda,Mazda3,2019,Sedan,"$21,000",UberX
+Mazda,Mazda3,2020,Sedan,"$21,500",UberX
+Mazda,Mazda3,2023,Sedan,"$22,550",UberX
+Mazda,Mazda6,2013,Sedan,"$21,180",UberX
+Mazda,Mazda6,2017,Sedan,"$21,945",Comfort
+Mazda,Mazda6,2019,Sedan,"$24,000",Comfort
+Mazda,Mazda6,2023,Sedan,"$25,000",Comfort
+Mazda,MX-5,2013,Sports Car,"$23,720",UberX
+Mazda,MX-5,2016,Sports Car,"$24,915",UberX
+Mazda,MX-5,2017,Sports Car,"$24,915",UberX
+Mazda,MX-5,2018,Sports Car,"$25,295",UberX
+Mazda,MX-5,2020,Sports Car,"$26,580",UberX
+Mazda,MX-5,2021,Sports Car,"$26,830",UberX
+Mazda,MX-5,2023,Sports Car,"$28,050",UberX
+Nissan,Altima,2013,Sedan,"$21,760",UberX
+Nissan,Altima,2014,Sedan,"$22,170",UberX
+Nissan,Altima,2015,Sedan,"$22,300",UberX
+Nissan,Altima,2017,Sedan,"$22,500",Comfort
+Nissan,Altima,2019,Sedan,"$23,750",Comfort
+Nissan,Altima,2020,Sedan,"$24,100",Comfort
+Nissan,Altima,2021,Sedan,"$24,550",Comfort
+Nissan,Maxima,2013,Sedan,"$32,780",UberX
+Nissan,Maxima,2015,Sedan,"$31,290",UberX
+Nissan,Maxima,2017,Sedan,"$32,610",Comfort
+Nissan,Maxima,2018,Sedan,"$33,270",Comfort
+Nissan,Maxima,2020,Sedan,"$34,450",Comfort
+Nissan,Maxima,2023,Sedan,"$38,340",Comfort
+Nissan,Pathfinder,2012,SUV,"$28,570",UberX
+Nissan,Pathfinder,2013,SUV,"$28,650",UberX
+Nissan,Pathfinder,2014,SUV,"$28,950",UberX
+Nissan,Pathfinder,2015,SUV,"$29,510",UberX
+Nissan,Pathfinder,2016,SUV,"$29,830",UberX
+Nissan,Pathfinder,2023,SUV,"$35,000",Comfort
+Nissan,Rogue,2014,SUV,"$22,790",UberX
+Nissan,Rogue,2016,SUV,"$23,290",UberX
+Nissan,Rogue,2017,SUV,"$23,820",Comfort
+Nissan,Rogue,2018,SUV,"$24,800",Comfort
+Nissan,Rogue,2019,SUV,"$25,020",Comfort
+Nissan,Rogue,2020,SUV,"$25,300",Comfort
+Nissan,Rogue,2021,SUV,"$25,750",Comfort
+Nissan,Rogue,2023,SUV,"$27,360",Comfort
+Nissan,Sentra,2013,Sedan,"$15,990",UberX
+Nissan,Sentra,2015,Sedan,"$16,480",UberX
+Nissan,Sentra,2016,Sedan,"$16,780",UberX
+Nissan,Sentra,2018,Sedan,"$16,990",UberX
+Nissan,Sentra,2021,Sedan,"$19,460",UberX
+Nissan,Sentra,2023,Sedan,"$20,050",UberX
+Subaru,Crosstrek,2015,SUV,"$21,595",UberX
+Subaru,Crosstrek,2016,SUV,"$21,595",UberX
+Subaru,Crosstrek,2018,SUV,"$21,795",UberX
+Subaru,Crosstrek,2019,SUV,"$21,895",UberX
+Subaru,Crosstrek,2020,SUV,"$22,145",UberX
+Subaru,Crosstrek,2021,SUV,"$22,245",UberX
+Subaru,Forester,2012,SUV,"$20,595",UberX
+Subaru,Forester,2014,SUV,"$21,995",UberX
+Subaru,Forester,2016,SUV,"$22,395",UberX
+Subaru,Forester,2019,SUV,"$24,295",Comfort
+Subaru,Forester,2020,SUV,"$24,495",Comfort
+Subaru,Forester,2021,SUV,"$24,795",Comfort
+Subaru,Forester,2022,SUV,"$25,895",Comfort
+Subaru,Impreza,2012,Sedan,"$17,495",UberX
+Subaru,Impreza,2013,Sedan,"$17,895",UberX
+Subaru,Impreza,2015,Sedan,"$18,195",UberX
+Subaru,Impreza,2018,Sedan,"$18,495",UberX
+Subaru,Impreza,2019,Sedan,"$18,595",UberX
+Subaru,Impreza,2020,Sedan,"$18,695",UberX
+Subaru,Impreza,2023,Sedan,"$19,795",UberX
+Subaru,Legacy,2014,Sedan,"$20,295",UberX
+Subaru,Legacy,2019,Sedan,"$22,545",Comfort
+Subaru,Legacy,2020,Sedan,"$22,745",Comfort
+Subaru,Legacy,2023,Sedan,"$24,395",Comfort
+Subaru,Outback,2012,SUV,"$23,295",UberX
+Subaru,Outback,2013,SUV,"$23,495",UberX
+Subaru,Outback,2018,SUV,"$25,895",Comfort
+Subaru,Outback,2021,SUV,"$26,795",Comfort
+Subaru,Outback,2022,SUV,"$27,145",Comfort
+Tesla,Cybertruck,2012,Truck,"$60,990",UberX
+Tesla,Cybertruck,2017,Truck,"$60,990",UberX
+Tesla,Cybertruck,2019,Truck,"$60,990",UberX
+Tesla,Cybertruck,2022,Truck,"$69,990",UberX
+Tesla,Cybertruck,2023,Truck,"$79,990",UberX
+Tesla,Model 3,2012,Sedan,"$35,000",UberX
+Tesla,Model 3,2013,Sedan,"$35,000",UberX
+Tesla,Model 3,2016,Sedan,"$35,000",UberX
+Tesla,Model 3,2017,Sedan,"$35,000",Comfort
+Tesla,Model 3,2020,Sedan,"$37,990",Comfort
+Tesla,Model 3,2023,Sedan,"$40,240",Comfort
+Tesla,Model S,2012,Sedan,"$57,400",Black
+Tesla,Model S,2014,Sedan,"$69,900",Black
+Tesla,Model S,2017,Sedan,"$69,500",Black
+Tesla,Model S,2019,Sedan,"$79,990",Black
+Tesla,Model X,2015,SUV,"$80,000",Black
+Tesla,Model X,2016,SUV,"$74,000",Black
+Tesla,Model X,2017,SUV,"$79,500",Black
+Tesla,Model X,2018,SUV,"$79,500",Black
+Tesla,Model X,2019,SUV,"$81,000",Black
+Tesla,Model X,2020,SUV,"$79,990",Black
+Tesla,Model X,2022,SUV,"$104,990",Black
+Tesla,Model Y,2012,SUV,"$45,000",UberX
+Tesla,Model Y,2015,SUV,"$48,000",UberX
+Tesla,Model Y,2019,SUV,"$48,000",Comfort
+Tesla,Model Y,2022,SUV,"$62,990",Comfort
+Tesla,Model Y,2023,SUV,"$47,490",Comfort
+Toyota,Camry,2013,Sedan,"$22,235",UberX
+Toyota,Camry,2015,Sedan,"$22,970",UberX
+Toyota,Camry,2021,Sedan,"$24,970",Comfort
+Toyota,Camry,2022,Sedan,"$25,295",Comfort
+Toyota,Camry,2023,Sedan,"$26,220",Comfort
+Toyota,Corolla,2012,Sedan,"$16,130",UberX
+Toyota,Corolla,2013,Sedan,"$16,230",UberX
+Toyota,Corolla,2017,Sedan,"$18,500",UberX
+Toyota,Corolla,2020,Sedan,"$19,600",UberX
+Toyota,Corolla,2023,Sedan,"$21,550",UberX
+Toyota,Highlander,2012,SUV,"$28,090",UberX
+Toyota,Highlander,2018,SUV,"$31,030",Comfort
+Toyota,Highlander,2019,SUV,"$31,330",Comfort
+Toyota,Highlander,2022,SUV,"$35,855",Comfort
+Toyota,Prius,2013,Hatchback,"$24,200",UberX
+Toyota,Prius,2014,Hatchback,"$24,200",UberX
+Toyota,Prius,2020,Hatchback,"$24,325",UberX
+Toyota,Prius,2021,Hatchback,"$24,525",UberX
+Toyota,Prius,2023,Hatchback,"$27,450",UberX
+Toyota,RAV4,2012,SUV,"$22,650",UberX
+Toyota,RAV4,2013,SUV,"$23,300",UberX
+Toyota,RAV4,2015,SUV,"$23,680",UberX
+Toyota,RAV4,2018,SUV,"$24,510",Comfort
+Toyota,RAV4,2020,SUV,"$25,950",Comfort
+Toyota,RAV4,2021,SUV,"$26,150",Comfort
+Toyota,RAV4,2022,SUV,"$26,525",Comfort
