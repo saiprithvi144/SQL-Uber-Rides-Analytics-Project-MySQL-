@@ -7,7 +7,8 @@ Database:       uberridesanalyticsdatabase
 
 Description:
     Analyze driver performance by comparing rating,revenue
-    against historical average performance.
+    against historical average performance. Identify the best performing driver and analyze the best
+    time based factors.
 
 Objectives:
     1. Compare driver performance with the overall average driver revenue in that city.

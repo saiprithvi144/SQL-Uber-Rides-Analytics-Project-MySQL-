@@ -10,7 +10,7 @@ Description:
     dimensions such as city, vehicle,cancellations,drivers and riders.
 
 Objectives:
-    1. Analyze sales by city.
+    1. Analyze revenue by city.
     2. Total riders per city.
     3. Total drivers per city.
     4. Total revenue generated per driver.
@@ -29,7 +29,7 @@ Objectives:
 USE uberridesanalyticsdatabase;
 
 -- ============================================================================
-#1: Analyze sales by city
+#1: Analyze revenue by city
 -- ============================================================================
 
 WITH cte AS(

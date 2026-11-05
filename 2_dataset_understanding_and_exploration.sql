@@ -8,6 +8,7 @@ Database:       uberridesanalyticsdatabase
 Description:
     This script explores the dimension tables 
     to understand their attributes, unique values, and distributions.
+    It also performs basic data validation checks.
 
 Objectives:
     1. Explore drivers information.

@@ -11,7 +11,7 @@ Description:
     average revenue and rider metrics.
 
 Objectives:
-    1. Calculate overall sales KPIs.
+    1. Calculate overall revenue KPIs.
     2. Measure rider activity.
     3. Measure geological location data.
     4. Calculate averages and totals.
@@ -23,7 +23,7 @@ Objectives:
 USE uberridesanalyticsdatabase;
 
 -- ============================================================================
-#1: Calculate overall sales KPIs
+#1: Calculate overall revenue KPIs
 -- ============================================================================
 
 #Total Revenue Generated

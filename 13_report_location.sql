@@ -58,6 +58,7 @@ round(SUM(p.amount*0.2),2) AS uber_revenue
 FROM trips t 
 LEFT JOIN locations l ON l.location_id=t.pickup_location_id
 LEFT JOIN payments p ON t.trip_id=p.trip_id
+WHERE p.status="success"
 GROUP BY l.zone_name
 ),
 ranked as(
